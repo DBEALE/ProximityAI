@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+email_log.txt
+.DS_Store
+.env
+venv/
